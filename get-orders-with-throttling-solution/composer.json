@@ -1,0 +1,7 @@
+{
+    "name": "deyvid/get-orders-table",
+    "require": {
+        "jlevers/selling-partner-api": "^3.0",
+        "aws/aws-sdk-php": "^3.185"
+    }
+}
